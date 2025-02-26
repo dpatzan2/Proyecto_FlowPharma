@@ -12,7 +12,7 @@ El sistema BPM propuesto busca **automatizar y optimizar** los flujos de aprobac
 
 - **Diego Patzán** - Carnet: 23525
 - **Diego López** - Carnet: 23242
-- **June Herrera** - Carnet:
+- **June Herrera** - Carnet: 231038
 - **Ihan Marroquín** - Carnet: 23108
 
 ---
