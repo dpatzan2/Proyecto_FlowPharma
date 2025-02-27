@@ -9,5 +9,5 @@
   -  **Hora:** 14:00
   -  Información general de necesidades
   - [Enlace al video de la reunión](https://drive.google.com/file/d/1AaEPZZU-un4LlXKlMWRwrtBb52_F9QxO/view?usp=sharing)
-  - [Enlace a la bitacora detallada](https://uvggt-my.sharepoint.com/:w:/r/personal/her231038_uvg_edu_gt/Documents/Bit%C3%A1cora.docx?d=wd39f14261c824f10bf2810976e5314b1&csf=1&web=1&e=WJ63eb)
+  - [Enlace a la bitacora detallada](https://uvggt-my.sharepoint.com/:w:/g/personal/her231038_uvg_edu_gt/ESYUn9OCHBBPvygQl25TFLEBDQPIPt3YwfHsB0Uql-K9LA?e=0OUSua)
 - **User story map**: [Enlace a mapa en Lucid](https://lucid.app/lucidspark/b138eab5-c160-4dfa-b45d-38d14c6a41ef/edit?viewport_loc=-2093%2C-327%2C5499%2C2844%2C0_0&invitationId=inv_66ae4aac-d27f-4e77-905a-d89641737a07)
